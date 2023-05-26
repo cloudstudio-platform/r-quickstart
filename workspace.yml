@@ -1,0 +1,6 @@
+---
+version: "v1"
+image: "coding-public-docker.pkg.coding.net/cloud-studio-samples/public-images/r:2023-05-25.1016"
+name: "R"
+description: "R 4.3.0"
+lifecycle: {}
